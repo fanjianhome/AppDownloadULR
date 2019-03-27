@@ -6,7 +6,7 @@
 
 * [iOS](https://www.pgyer.com/inzhiyu-ios)
 
-* [Android](https://www.pgyer.com/inzhiyu-ios)
+* [Android](https://www.pgyer.com/inzhiyu-android)
 
 
 ### 滨湖租赁:
