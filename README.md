@@ -4,9 +4,9 @@
 
 ![zhiyu](/assets/image/icon/zhiyu_icon.png)
 
-* [iOS](https://www.pgyer.com/1pinhome-ios)
+* [iOS](https://www.pgyer.com/inzhiyu-ios)
 
-* [Android](https://www.pgyer.com/1pinhome-ios)
+* [Android](https://www.pgyer.com/inzhiyu-ios)
 
 
 ### 滨湖租赁:
