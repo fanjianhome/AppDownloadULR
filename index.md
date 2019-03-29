@@ -7,7 +7,7 @@ layout: home
   <tr>
     <td>
     <h3>之寓</h3>
-    <p><img src="/assets/image/icon/zhiyu_icon.png" alt="zhiyu"></p>
+    <p><img src="assets/image/icon/zhiyu_icon.png" alt="zhiyu"></p>
     <ul>
         <li>
             <p><a href="https://www.pgyer.com/inzhiyu-ios">iOS</a></p>
@@ -19,7 +19,7 @@ layout: home
     </td>
     <td>
     <h3>滨湖租赁</h3>
-    <p><img src="/assets/image/icon/binhu_icon.png" alt="fanjianicon"></p>
+    <p><img src="assets/image/icon/binhu_icon.png" alt="fanjianicon"></p>
     <ul>
         <li>
             <p><a href="https://www.pgyer.com/1pinhome-ios">iOS</a></p>
