@@ -29,6 +29,7 @@ layout: home
         </li>
     </ul>
     </td>
+    <td>
     <h3>OVU 公寓</h3>
     <p><img src="assets/image/icon/ovuhome_icon.jpg" alt="ovuhome"></p>
     <ul>
