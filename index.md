@@ -34,10 +34,7 @@ layout: home
     <p><img src="assets/image/icon/ovuhome_icon.jpg" alt="ovuhome"></p>
     <ul>
         <li>
-            <p><a href="https://www.pgyer.com/1pinhome-ios">iOS</a></p>
-        </li>
-        <li>
-            <p><a href="https://www.pgyer.com/1pinhome-android">Android</a></p>
+            <p><a href="https://www.pgyer.com/ovuhome-android">Android</a></p>
         </li>
     </ul>
     </td>
