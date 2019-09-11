@@ -3,10 +3,9 @@
 layout: home
 ---
 
-<table style="width:350px">
+<table style="width:650px">
   <tr>
     <td>
-
     <h3>之寓</h3>
     <p><img src="assets/image/icon/zhiyu_icon.png" alt="zhiyu"></p>
     <ul>
@@ -19,7 +18,6 @@ layout: home
     </ul>
     </td>
     <td>
-
     <h3>滨湖租赁</h3>
     <p><img src="assets/image/icon/binhu_icon.png" alt="binhu"></p>
     <ul>
@@ -31,17 +29,17 @@ layout: home
         </li>
     </ul>
     </td>
-
     <h3>OVU 公寓</h3>
     <p><img src="assets/image/icon/ovuhome_icon.jpg" alt="ovuhome"></p>
     <ul>
+        <li>
+            <p><a href="https://www.pgyer.com/1pinhome-ios">iOS</a></p>
+        </li>
         <li>
             <p><a href="https://www.pgyer.com/1pinhome-android">Android</a></p>
         </li>
     </ul>
     </td>
-
-
   </tr>
 </table>
 
